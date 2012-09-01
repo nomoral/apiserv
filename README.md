@@ -4,7 +4,7 @@ apiserv
 =======
 
 
-An example says more than thousands words (example/api/test.py):
+An example says more than thousands words (`example/api/test.py`):
 
 
 
